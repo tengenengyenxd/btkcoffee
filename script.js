@@ -2,9 +2,9 @@
 const menuData = [
     {
         name: "Caramel Macchiatto",
-        price: "12oz | P89.00<br/>16oz | P99.00",
+        price: "<br/>12oz | P89.00<br/>16oz | P99.00",
         image: "https://images.unsplash.com/photo-1510707577719-ae7c14805e3a?auto=format&fit=crop&w=500&q=60",
-        desc: "<br/>Espresso, milk, and caramel drizzle."
+        desc: "Espresso, milk, and caramel drizzle."
     },
     {
         name: "Biscoff Frappe",
@@ -14,21 +14,21 @@ const menuData = [
     },
     {
         name: "Cookies and Cream Waffle",
-        price: "Single | P49.00<br/>Double | P59.00",
+        price: "<br/>Single | P49.00<br/>Double | P59.00",
         image: "https://images.unsplash.com/photo-1588137372308-15f75323ca8d?auto=format&fit=crop&w=500&q=60",
-        desc: "<br/>A sweet treat featuring warm waffles, velvety whipped cream, crushed Oreo cookies, and luscious chocolate sauce."       
+        desc: "A sweet treat featuring warm waffles, velvety whipped cream, crushed Oreo cookies, and luscious chocolate sauce."       
     },
     {
         name: "Samyang Overload",
-        price: "P159.00",
+        price: "<br/>P159.00",
         image: "https://images.unsplash.com/photo-1467232002004-6a3a9d382950?auto=format&fit=crop&w=500&q=60",
-        desc: "<br/>Samyang Carbonara ramen elevated with cheesy sauce, egg, and ham—rich, spicy, and irresistibly satisfying."
+        desc: "Samyang Carbonara ramen elevated with cheesy sauce, egg, and ham—rich, spicy, and irresistibly satisfying."
     },
     {
         name: "Cheesy Fries",
         price: "<br/>P69.00",
         image: "https://images.unsplash.com/photo-1572442388796-11668a67e53d?auto=format&fit=crop&w=500&q=60",
-        desc: "<br/>Perfectly seasoned fries topped with a generous drizzle of smooth and cheesy goodness."
+        desc: "Perfectly seasoned fries topped with a generous drizzle of smooth and cheesy goodness."
     }
 ];
 
