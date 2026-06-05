@@ -8,9 +8,9 @@ const menuData = [
     },
     {
         name: "Biscoff Frappe",
-        price: "16oz | P109.00",
+        price: "<br/>16oz | P109.00",
         image: "https://images.unsplash.com/photo-1461023058943-645751579d89?auto=format&fit=crop&w=500&q=60",
-        desc: "<br/>A creamy blended latte infused with rich Biscoff cookie flavor, topped with whipped cream and Biscoff crumbs."
+        desc: "A creamy blended latte infused with rich Biscoff cookie flavor, topped with whipped cream and Biscoff crumbs."
     },
     {
         name: "Cookies and Cream Waffle",
